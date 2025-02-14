@@ -29,8 +29,6 @@ A high-performance **AI-powered Intrusion Detection System (IDS)** that analyzes
  ├── .github/workflows   # CI/CD pipeline
 ```
 
-## 🚀 Live Demo
-🎮 **Try the interactive dashboard**: [Click Here](https://your-demo-link.com)
 
 ## 🛠️ Installation
 ```bash
@@ -68,7 +66,6 @@ python dashboard/app.py
 
 ## 🛠️ Tech Stack
 - **Machine Learning**: Scikit-learn, Pandas, NumPy
-- **Web Framework**: Flask / FastAPI
 - **Visualization**: Dash / Streamlit
 - **CI/CD**: GitHub Actions + Docker
 
@@ -78,6 +75,5 @@ Pull requests are welcome! **Guidelines:**
 2. Commit your changes
 3. Open a PR 🚀
 
-## 📜 License
-This project is licensed under the **MIT License**.
+
 
